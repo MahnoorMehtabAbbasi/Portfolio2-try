@@ -1,0 +1,248 @@
+
+    body {
+      background-color: rgb(227, 231, 233) ;
+    }
+    #nav
+    {
+      background-color: white;
+    }
+    .container {
+      background-color: white !important;
+       padding-top: 50px;
+    }
+      
+    #nest img{
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+      }
+        
+    .row h1 {
+      color: rgb(93, 178, 231);
+      font-size: 40px;
+
+    }
+    .row p
+    {
+      color: gray;
+    }
+    .row #mm
+    {
+      background-color: rgb(235, 158, 95);
+    }
+    .row #tt{
+      text-decoration: none;
+      padding-top: 5px;
+      color: gray;
+      font-size: 13px;
+
+    }
+    #btn1
+    {
+      float: right;
+      margin-right: 10px;
+      color: grey;
+      border-color: grey;
+     background-color: white;
+    }
+    #btn2
+    {
+      
+    
+     float: right;
+    
+    }
+   
+    #key
+    {
+      color: black;
+    }
+   #keyy 
+   {
+    background-color:rgb(5, 6, 104);
+    margin-top: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 6px;
+   text-align: center;
+   
+   
+   }
+   #keyy .pp 
+   {
+  
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    
+   
+   }
+  #nest
+  {
+    color: white;
+    background-color:rgb(5, 6, 104);
+    border-radius: 6px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -7px;
+  }
+  
+   .row .ppp
+   {
+    color: rgb(190, 190, 190);
+   }
+   .row #nest
+   {
+   
+    color: white;
+   }
+   #nest #w
+   {
+    margin-left: 40px;
+   }
+  
+   #nest .tex{
+    text-align: center;
+   }
+  #nest .alignn
+  {
+    text-align: center;
+  }
+  #mano0 ,#mano1
+  {
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-bottom: 7px; 
+   
+  }
+  #mano0
+  {
+    margin-top: 20px;
+  }
+  #sha .get
+ {
+  color:white;
+  font-size: 25px;
+  padding-left: 20px;
+ }
+ #sha
+ {
+  background-color:rgb(5, 6, 104);
+  margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+ }
+ #sha #oo
+ {
+ color: rgb(185, 184, 184);
+ }
+ #btn-start
+ {
+  margin-top: 10px;
+ }
+ #last
+ {
+  margin-top: 30px;
+  
+ }
+ #last #n1
+ {
+  color: grey;
+ }
+ #last h1
+ {
+  color: black;
+ }
+ #last1
+ {
+  color: black;
+ }
+ #last1 p
+ {
+  columns: grey;
+ }
+  #last #last1 #bt
+ {
+  background-color: white;
+  color: grey;
+  border-color: grey;
+ 
+ }
+ #last2
+ {
+ padding-top:40px ;
+ }
+ #sidebar
+ {
+ background-color: rgb(36, 35, 35);
+ color: white;
+ margin-left: 10px;
+ margin-right: 10px;
+ padding-top: 50px;
+ padding-bottom: 50px;
+ }
+ #sidebar a
+ {
+  text-decoration: none;
+  color: grey;
+ }
+ #sidebar .m{
+  font-size: 15px;
+ }
+
+ @media (max-width:991px) {
+    
+    #ki
+    {
+      margin-left: 50px !important;
+    }
+   #nav0 
+    {
+     
+      display: none;
+    } 
+    .rrr
+    {
+      font-size: 20px;
+    }
+    .container
+    {
+      padding-top: 50px ;
+    }
+    #w
+    {
+      margin-left: 0px !important;
+    }
+    #bt
+    {
+      margin-top: 10px;
+    }
+    
+  }
+  @media (max-width:575px) {
+    #w
+    {
+      margin-left: 0px !important;
+    }
+    #mediaa
+    {
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    #bt
+    {
+      margin-top: 10px;
+    }
+    #ki
+    {
+      margin-left: 30px;
+    }
+    .container
+    {
+      padding:5px;
+    }
+   
+ 
+    
+  }
